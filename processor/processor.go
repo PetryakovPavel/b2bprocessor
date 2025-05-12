@@ -9,7 +9,7 @@ import (
     "go.opentelemetry.io/collector/pdata/ptrace"
     "go.uber.org/zap"
 
-    "github.com/your_username/b2bprocessor"
+    "github.com/PetryakovPavel/b2bprocessor"
 )
 
 type DynamicBatchProcessor struct {
